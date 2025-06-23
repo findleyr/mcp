@@ -13,8 +13,6 @@ Please test it out and file bug reports or API proposals. The [TODO](#todo)
 section below outlines outstanding release blockers. We aim to release a stable
 version of the SDK in mid July, 2025.
 
-%toc
-
 ## Package documentation
 
 The SDK consists of two importable packages:
