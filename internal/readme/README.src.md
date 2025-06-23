@@ -1,5 +1,8 @@
 # MCP Go SDK
 
+**NOTE**: this is an example of extracting the MCP SDK out of
+golang.org/x/tools/internal/mcp. It is not a supported SDK.
+
 <!-- TODO: update pkgsite links here to point to the modelcontextprotocol
 module, once it exists. -->
 
